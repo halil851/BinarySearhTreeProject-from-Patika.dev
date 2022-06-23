@@ -4,8 +4,12 @@ https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-
 
 Write the stages of Binary-Search-Tree.
 
+ANSWER:
+
 First number is selected as a root. 
+
 If the next number bigger, place it to right ,if not place it to left. 
+
 Keep continue until no unplaced number.
 
     	 7

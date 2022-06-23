@@ -12,7 +12,7 @@ If the next number bigger, place it to right ,if not place it to left.
 
 Keep continue until no unplaced number.
 
-     7
+            7
           /   \
          5     8
         / \     \
